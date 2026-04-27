@@ -42,3 +42,5 @@
   - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
 
 ## PRの練習用
+* - 山禄凛多郎（さんろくりんたろう）
+  - 東京大学経済学部金融学科4年・青木ゼミ尾山ゼミ所属
