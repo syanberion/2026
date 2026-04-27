@@ -40,3 +40,5 @@
   - [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) [Issues](https://github.com/QuantEcon/QuantEcon.jl/issues)
   - [GameTheory.jl](https://github.com/QuantEcon/GameTheory.jl) [Issues](https://github.com/QuantEcon/GameTheory.jl/issues)
   - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
+
+## PRの練習用
