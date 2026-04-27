@@ -42,6 +42,7 @@
   - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
 
 ## PRの練習用
+本橋薫です
 
 こんにちは
 - 須田悠雅
